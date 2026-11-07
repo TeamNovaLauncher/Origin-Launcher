@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Origin Launcher</string>
+    <string name="home_title">Origin</string>
+    <string name="search_hint">Search apps</string>
+    <string name="settings_title">Launcher settings</string>
+</resources>
