@@ -75,7 +75,7 @@ public class MainActivity extends Activity {
         searchBox.setHint(getString(R.string.search_hint));
         searchBox.setTextSize(15);
         searchBox.setPadding(dp(16), 0, dp(16), 0);
-        searchBox.setBackground(roundRect(0x332FFFFFF, dp(18)));
+        searchBox.setBackground(roundRect(0x33FFFFFF, dp(18)));
         LinearLayout.LayoutParams searchParams = new LinearLayout.LayoutParams(-1, dp(50));
         searchParams.topMargin = dp(24);
         root.addView(searchBox, searchParams);
